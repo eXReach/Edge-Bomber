@@ -25,3 +25,6 @@ cd Edge-Bomber
 sudo pip3 install -r requirements.txt
 python3 eBomber.py
 ```
+
+Установка на Windows
+Для Windows достаточно [скачать программу тут](https://github.com/eXReach/Edge-Bomber/releases)
